@@ -1,5 +1,6 @@
 # Outliers
 ==================
+
 Futures & Options (F&O) data can be analysed to pick up activities outside the normal trend, high volume buying / selling, uncharacteristic trades.
 These in turn usually indicate either heightened activity by large players or changes in trend. Catching these could lead to potential large winners or high payout events.
 
