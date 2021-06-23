@@ -32,7 +32,7 @@ def csv_json(csvFile, jsonFile):
 		jsonf.write(json.dumps(data, indent=4))
         
 # Provide the file path
-sourcePath = 'C:\\Users\\Nithya\\Documents\\Python\\Projects\\Outliers\\Analysis\\' 
+sourcePath = '<<>>' 
 csvFileName = 'csvOutliers.csv'
 csvFile = (sourcePath+csvFileName) 
 
